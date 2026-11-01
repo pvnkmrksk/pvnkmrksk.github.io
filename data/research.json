@@ -1,0 +1,76 @@
+{
+  "title": "How do insects navigate reality?",
+  "intro": "Different animals help me ask related questions about navigation, perception and moving together.",
+  "strands": [
+    {
+      "name": "Combining senses",
+      "species": "Apple flies · other Diptera",
+      "question": "How do sight, smell and wind help an insect find a distant target?",
+      "href": "https://doi.org/10.1073/pnas.1912124117",
+      "link": "PNAS · 2020"
+    },
+    {
+      "name": "Navigating reality",
+      "species": "Ants · moths · flies",
+      "question": "What can virtual worlds tell us about navigation outside the lab?",
+      "href": "https://doi.org/10.1016/j.cois.2020.09.010",
+      "link": "Navigation review · 2020"
+    },
+    {
+      "name": "Building experiments",
+      "species": "Walking and flying insects",
+      "question": "How can a virtual scene respond to an animal as it walks or flies?",
+      "href": "https://doi.org/10.1111/2041-210X.14449",
+      "link": "Unity methods · 2025"
+    },
+    {
+      "name": "Moving in groups",
+      "species": "Desert locusts · marching crickets",
+      "question": "How do insects see and respond to their neighbors as they move?",
+      "href": "https://ssrn.com/abstract=7398343",
+      "link": "Locust preprint · 2026"
+    }
+  ],
+  "phd": {
+    "title": "Prakruti Māyé",
+    "subtitle": "Using Virtual Reality to Deconstruct Insect Ecology",
+    "years": "2014–2020",
+    "institution": "PhD · TIFR, NCBS campus · Bengaluru",
+    "text": "For my PhD, I built a three-dimensional virtual environment for flies, with visual scenery, wind and odour. We found that apple flies used perspective and motion parallax to distinguish objects of different sizes and distances. They also combined odour with directional airflow to follow a host plume.",
+    "paper": "https://doi.org/10.1073/pnas.1912124117",
+    "thesis": "https://hdl.handle.net/10603/423079",
+    "people": "My advisor was Shannon B. Olsson, and Sanjay P. Sane was on my thesis committee. Marian Renz, whom I mentored as a BSc student, co-authored the PNAS paper with us.",
+    "awards": "During this work, I received a Microsoft Research grant in 2018, the Infosys Travel Award in 2019, and a full scholarship to the 2019 Janelia Mechanistic Cognitive Neuroscience Junior Scientist Workshop.",
+    "press": "The paper was covered by CNN, Haaretz, Phys.org and Der Tagesspiegel.",
+    "summary": "For my PhD, I built a virtual world for flies. We found that apple flies combined visual depth cues, wind and odour to find distant targets."
+  },
+  "matrex": {
+    "title": "MATREX VR",
+    "text": "I’m developing MATREX, a modular virtual-reality system for insect experiments. It combines visual scenery, odour and airflow, and can run off-grid. I use it with collaborators to study animals in the field as well as in the lab.",
+    "species": [
+      "Bogong moths",
+      "Death’s-head hawkmoths",
+      "Marching crickets",
+      "Weaver ants",
+      "Desert locusts",
+      "Queenless ants (Diacamma)",
+      "Formica ants"
+    ],
+    "repo": "https://github.com/pvnkmrksk/matrexVR",
+    "paper": "https://doi.org/10.1111/2041-210X.14449",
+    "support": "This work has received support from CASCB (2024) and a Smithsonian Tropical Research Institute small grant (2026).",
+    "talks": "I’ve presented the field VR work at DZG (2023), SICB and ICN (2024), and Behavior 2025 in Kolkata.",
+    "media": {
+      "base": "assets/images/events/matrex-field",
+      "src": "assets/images/events/matrex-field-960.webp",
+      "fullSrc": "assets/images/events/matrex-field-full.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "Pavan taking notes beside a portable MATREX virtual-reality rig under a field canopy.",
+      "label": "Taking notes beside MATREX, with the experiment running under a field canopy.",
+      "source": "https://github.com/pvnkmrksk/matrexVR"
+    },
+    "summary": "I’m building MATREX to take controlled experiments into the field, with visual worlds, wind and odour."
+  },
+  "projectUrl": "https://www.ab.mpg.de/639079/making-ants-play-video-games-to-solve-big-problems-with-small-brains"
+}
