@@ -1,0 +1,510 @@
+{
+  "person": {
+    "name": "Pavan",
+    "email": "banni@kutuhula.in",
+    "github": "https://github.com/pvnkmrksk",
+    "linkedin": "https://www.linkedin.com/in/pvnkmrksk",
+    "scholar": "https://scholar.google.com/citations?user=6yS7fHkAAAAJ",
+    "orcid": "https://orcid.org/0000-0002-9431-3993",
+    "institution": "https://www.ab.mpg.de/person/116189/2736",
+    "instagram": "https://www.instagram.com/kutuhula",
+    "languages": [
+      {
+        "name": "Kannada",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "Native"
+      },
+      {
+        "name": "Tamil",
+        "level": "Proficient"
+      },
+      {
+        "name": "Hindi",
+        "level": "Proficient"
+      },
+      {
+        "name": "German",
+        "level": "Elementary"
+      }
+    ]
+  },
+  "appointments": [
+    {
+      "years": "2022–Present",
+      "role": "Postdoctoral Researcher",
+      "organization": "Max Planck Institute of Animal Behavior",
+      "location": "Konstanz, Germany",
+      "url": "https://www.ab.mpg.de/person/116189/2736",
+      "description": "Built and deployed MATREX VR, a portable, multimodal insect VR platform, for off-grid behavioural experiments with locusts, marching crickets, weaver ants and migrating moths."
+    },
+    {
+      "years": "2021–2022",
+      "role": "Tinkerer Maximus",
+      "organization": "Dozee",
+      "location": "Bengaluru, India",
+      "url": "https://www.dozee.health",
+      "description": "Led innovation on contactless micro-vibration vitals monitoring; co-authored papers, patent applications and validation work; coordinated with clinicians on deployment in 200+ hospitals worldwide."
+    },
+    {
+      "years": "2020–2021",
+      "role": "Co-founder and CTO",
+      "organization": "Essensari",
+      "location": "Bengaluru, India",
+      "url": "http://bit.ly/essensari",
+      "description": "Prototyped an anosmia-screening IoT device and Android app, filed a patent application and deployed during the pandemic."
+    }
+  ],
+  "education": [
+    {
+      "years": "2014–2020",
+      "degree": "PhD in Computational Neuroethology",
+      "institution": "TIFR (NCBS campus)",
+      "location": "Bengaluru, India",
+      "thesis": "Prakruti Māyé: Using Virtual Reality to Deconstruct Insect Ecology",
+      "thesisUrl": "https://hdl.handle.net/10603/423079"
+    },
+    {
+      "years": "2011–2014",
+      "degree": "BSc (Biology, Physics, Chemistry, Mathematics)",
+      "institution": "Bangalore University",
+      "location": "Bengaluru, India"
+    }
+  ],
+  "publications": [
+    {
+      "year": 2025,
+      "authors": "Ogawa, Y., Aoukar, R., Leibbrandt, R., et al. (including Pavan K. Kaushik)",
+      "title": "Combining Unity with machine vision to create low latency, flexible and simple virtual realities",
+      "journal": "Methods in Ecology and Evolution",
+      "volume": "16(1)",
+      "pages": "126–144",
+      "doi": "10.1111/2041-210X.14449",
+      "url": "https://doi.org/10.1111/2041-210X.14449"
+    },
+    {
+      "year": 2023,
+      "authors": "Kadambi, P., Rawooth, M., Anand, N., Dani, A., Samra, R., Parchani, G., & Kaushik, P.",
+      "title": "ED.Ai: A Ballistic Simulator for Cardiac and Respiratory Micro-vibration Testing",
+      "journal": "COMSNETS",
+      "doi": "10.1109/COMSNETS56262.2023.10041349",
+      "url": "https://doi.org/10.1109/COMSNETS56262.2023.10041349"
+    },
+    {
+      "year": 2023,
+      "authors": "Ghosh, A., Anand, N., Kaushik, P., Bagrodia, V., Pal, P. K., & Yadav, R.",
+      "title": "IOT based Sensor System for 24×7 monitoring movement disorder symptoms using machine learning",
+      "journal": "COMSNETS",
+      "pages": "66–71",
+      "doi": "10.1109/COMSNETS56262.2023.10041330",
+      "url": "https://doi.org/10.1109/COMSNETS56262.2023.10041330"
+    },
+    {
+      "year": 2023,
+      "authors": "Jawad, U. H., Rangaraj, V., Kumar, A., et al. (including Pavan Kumar Kaushik)",
+      "title": "Micro-Vibration Based Health Monitoring: Effect of External Factors on Ballistocardiogram Signals",
+      "journal": "COMSNETS",
+      "doi": "10.1109/COMSNETS56262.2023.10041350",
+      "url": "https://doi.org/10.1109/COMSNETS56262.2023.10041350"
+    },
+    {
+      "year": 2021,
+      "authors": "Olsson, S. B., & Kaushik, P.",
+      "title": "Insect Decision-Making",
+      "subtitle": "Combining VR and fieldwork yields insights into the mind of the apple fly",
+      "journal": "American Scientist",
+      "volume": "109(6)",
+      "pages": "368–376",
+      "doi": "10.1511/2021.109.6.368",
+      "url": "https://doi.org/10.1511/2021.109.6.368"
+    },
+    {
+      "year": 2021,
+      "authors": "Gerkin, R. C., Ohla, K., Veldhuizen, M. G., et al. (GCCR Group Author, including Pavan K. Kaushik)",
+      "title": "Recent Smell Loss Is the Best Predictor of COVID-19 Among Individuals With Recent Respiratory Symptoms",
+      "journal": "Chemical Senses",
+      "volume": "46",
+      "article": "bjaa081",
+      "doi": "10.1093/chemse/bjaa081",
+      "url": "https://doi.org/10.1093/chemse/bjaa081"
+    },
+    {
+      "year": 2020,
+      "authors": "Parma, V., Ohla, K., Veldhuizen, M. G., et al. (GCCR Group Author, including Pavan K. Kaushik)",
+      "title": "More Than Smell—COVID-19 Is Associated With Severe Impairment of Smell, Taste, and Chemesthesis",
+      "journal": "Chemical Senses",
+      "volume": "45(7)",
+      "pages": "609–622",
+      "doi": "10.1093/chemse/bjaa041",
+      "url": "https://doi.org/10.1093/chemse/bjaa041"
+    },
+    {
+      "year": 2020,
+      "authors": "Kaushik, P. K., Renz, M., & Olsson, S. B.",
+      "title": "Characterizing long-range search behavior in Diptera using complex 3D virtual environments",
+      "journal": "PNAS",
+      "volume": "117(22)",
+      "pages": "12201–12207",
+      "doi": "10.1073/pnas.1912124117",
+      "url": "https://doi.org/10.1073/pnas.1912124117"
+    },
+    {
+      "year": 2020,
+      "authors": "Kaushik, P., & Olsson, S.",
+      "title": "Using virtual worlds to understand insect navigation for bio-inspired systems",
+      "journal": "Current Opinion in Insect Science",
+      "volume": "42",
+      "pages": "97–104",
+      "doi": "10.1016/j.cois.2020.09.010",
+      "url": "https://doi.org/10.1016/j.cois.2020.09.010"
+    }
+  ],
+  "patentApplications": [
+    {
+      "year": 2025,
+      "title": "System and method for non-intrusive monitoring and prediction of body functions",
+      "number": "US 18/286,198",
+      "authors": "Saran, V., Singh, V., Kaushik, P., Parchani, G., & Kadambi, P.",
+      "status": "Application (per supplied CV)"
+    },
+    {
+      "year": 2024,
+      "title": "A micro-vibration testing device for vital parameter evaluation and a method thereof",
+      "number": "US 18/391,329",
+      "authors": "Kaushik, P., Kadambi, P., & Parchani, G.",
+      "status": "Application (per supplied CV)"
+    },
+    {
+      "year": 2024,
+      "title": "System and method for contactless monitoring through acoustic signals",
+      "number": "US 18/377,697",
+      "authors": "Saran, V., Singh, V., Kaushik, P., Parchani, G., & Kadambi, P.",
+      "status": "Application (per supplied CV)"
+    },
+    {
+      "year": 2020,
+      "title": "An anosmia screening device",
+      "number": "India 202041053956",
+      "authors": "Kaushik, P.",
+      "status": "Application; granted status not verified"
+    }
+  ],
+  "grants": [
+    {
+      "year": 2026,
+      "name": "Smithsonian Tropical Research Institute Small Grant",
+      "amountINR": 1130000
+    },
+    {
+      "year": 2024,
+      "name": "Centre for the Advanced Study of Collective Behaviour",
+      "amountINR": 910000
+    },
+    {
+      "year": 2020,
+      "name": "Reckitt-Benckiser",
+      "amountINR": 2400000,
+      "note": "Awarded but not activated due to pandemic logistics"
+    },
+    {
+      "year": 2019,
+      "name": "Infosys Travel Award",
+      "amountINR": 150000
+    },
+    {
+      "year": 2018,
+      "name": "Microsoft Research",
+      "amountINR": 1000000
+    }
+  ],
+  "teaching": [
+    {
+      "year": 2026,
+      "course": "Block-course lecture and locust-experiment practical",
+      "role": "Lecturer / practical instructor",
+      "institution": "University of Konstanz",
+      "source": "Spec only",
+      "note": "Scheduled November–December 2026; do not describe as completed."
+    },
+    {
+      "year": 2025,
+      "course": "Animal Behavior",
+      "role": "Co-instructor",
+      "institution": "Max Planck Institute of Animal Behavior",
+      "description": "Lectures, labs and VR-assisted experiments."
+    },
+    {
+      "year": 2025,
+      "course": "Pristina Summer School",
+      "role": "Lecturer",
+      "institution": "University of Prishtina, Kosovo",
+      "description": "Workshops on insect VR, tracking and instrumentation."
+    },
+    {
+      "year": 2024,
+      "course": "Rewilding Ethology Laboratory",
+      "role": "Organizer",
+      "institution": "University of Konstanz",
+      "description": "Hackathon combining philosophy, tinkering, field and lab research."
+    },
+    {
+      "year": 2023,
+      "course": "Quantitative Collective Behaviour",
+      "role": "Co-instructor",
+      "institution": "University of Konstanz",
+      "description": "Advanced Master course in computer vision, Python, hardware design and 3D printing."
+    }
+  ],
+  "mentoring": [
+    {
+      "years": "2023–Present",
+      "name": "Chi-Yu Lee",
+      "level": "PhD",
+      "institution": "Max Planck Institute of Animal Behavior"
+    },
+    {
+      "years": "2022–Present",
+      "name": "August Paula",
+      "level": "PhD",
+      "institution": "Max Planck Institute of Animal Behavior"
+    },
+    {
+      "years": "2026–Present",
+      "name": "Julius Langebrake",
+      "level": "MSc",
+      "institution": "University of Konstanz"
+    },
+    {
+      "years": "2026–Present",
+      "name": "Mare Hamelink",
+      "level": "MSc",
+      "institution": "University of Amsterdam"
+    },
+    {
+      "years": "2025",
+      "name": "Nick Schoffski",
+      "level": "MSc",
+      "institution": "University of Tuebingen"
+    },
+    {
+      "years": "2025",
+      "name": "Vincent Trubenbacher",
+      "level": "BSc",
+      "institution": "University of Konstanz"
+    },
+    {
+      "years": "2025",
+      "name": "Smriti Mahesh",
+      "level": "MSc",
+      "institution": "IISER Thiruvananthapuram"
+    },
+    {
+      "years": "2024",
+      "name": "Konstantin Boos",
+      "level": "BSc",
+      "institution": "University of Konstanz"
+    },
+    {
+      "years": "2023",
+      "name": "Hannah Kniebeler",
+      "level": "BSc",
+      "institution": "University of Konstanz"
+    },
+    {
+      "years": "2018",
+      "name": "Rishika Mohanta",
+      "level": "MSc",
+      "institution": "IISER Pune"
+    },
+    {
+      "years": "2017",
+      "name": "Marian Renz",
+      "level": "BSc",
+      "institution": "University of Bielefeld"
+    }
+  ],
+  "invitedTalks": [
+    {
+      "year": 2025,
+      "event": "Sino-German Workshop on Swarm Intelligence",
+      "location": "Konstanz, Germany"
+    },
+    {
+      "year": 2024,
+      "event": "Centre for the Advanced Study of Collective Behaviour",
+      "location": "Konstanz, Germany"
+    },
+    {
+      "year": 2019,
+      "event": "University of Washington",
+      "location": "Seattle, USA"
+    },
+    {
+      "year": 2018,
+      "event": "Christ University",
+      "location": "Bengaluru, India"
+    }
+  ],
+  "conferences": [
+    {
+      "year": 2025,
+      "event": "Behavior 2025",
+      "location": "Kolkata",
+      "format": "Talk",
+      "title": "Virtual Reality in the Field"
+    },
+    {
+      "year": 2024,
+      "event": "ICN",
+      "location": "Berlin",
+      "format": "Poster",
+      "title": "Virtual Reality off the Grid"
+    },
+    {
+      "year": 2024,
+      "event": "SICB",
+      "format": "Talk",
+      "title": "MATREX VR"
+    },
+    {
+      "year": 2023,
+      "event": "Deutsche Zoologische Gesellschaft Annual Meeting",
+      "location": "Kassel",
+      "format": "Talk",
+      "title": "MATREX VR"
+    },
+    {
+      "year": 2019,
+      "event": "Janelia Mechanistic Cognitive Neuroscience Junior Scientist Workshop",
+      "format": "Workshop",
+      "note": "Full scholarship"
+    }
+  ],
+  "tools": [
+    {
+      "name": "MATREX VR",
+      "url": "https://github.com/pvnkmrksk/matrexVR",
+      "description": "Modular, field-portable insect VR; Unity + FicTrac interfaces; open CAD and code."
+    },
+    {
+      "name": "6-axis force–torque sensor",
+      "url": "https://github.com/pvnkmrksk/fiducialforcesensor",
+      "description": "Low-noise, high-sensitivity, fully 3D-printed sensor with open design and software."
+    },
+    {
+      "name": "Chukke",
+      "url": "https://github.com/pvnkmrksk/Chukke",
+      "description": "Creating unique visual identification tags for marking animals."
+    },
+    {
+      "name": "Magga",
+      "url": "https://github.com/pvnkmrksk/magga",
+      "description": "A toolkit for weaving transit data into meaningful maps for transport feasibility analysis."
+    },
+    {
+      "name": "Rala",
+      "url": "https://rala.kutuhula.in",
+      "description": "Kannada lexicographic tool built from scraped and reverse-engineered dictionary sources."
+    }
+  ],
+  "engagement": {
+    "name": "Kutuhula",
+    "nameKn": "ಕುತೂಹುಳ",
+    "years": "2025–Present",
+    "followers": "50,000+",
+    "views": "11M+",
+    "url": "https://www.instagram.com/kutuhula",
+    "description": "Curiosity-driven science communication in Kannada, using primary footage with no production budget."
+  },
+  "exhibitSources": [
+    {
+      "name": "Victoria and Albert Museum",
+      "url": "https://nicelab.science/2019/06/13/our-collaboration-with-artists-featured-at-the-victoria-and-albert-museum/"
+    },
+    {
+      "name": "Munich Night of the Museum",
+      "url": "https://www.ab.mpg.de/events/42342/2736"
+    },
+    {
+      "name": "NCBS Open Day",
+      "url": "https://nicelab.science/2016/11/23/ncbs-open-day/"
+    },
+    {
+      "name": "NCBS Moth Day",
+      "url": "https://nicelab.science/2018/10/10/all-hail-the-mighty-moths/"
+    },
+    {
+      "name": "Akademie Schloss Solitude: Umwelt",
+      "url": "https://www.akademie-solitude.de/en/event/veranstaltungsabend-umwelt-im-kula-kulturladen-konstanz-e-v/"
+    }
+  ],
+  "press": [
+    {
+      "name": "CNN",
+      "title": "Scientists create video game to unlock how flies navigate",
+      "url": "https://edition.cnn.com/2020/05/18/world/insects-virtual-reality-study-scn/index.html"
+    },
+    {
+      "name": "Inverse",
+      "title": "These insects are annoying, but they might just save your life",
+      "url": "https://www.inverse.com/innovation/vr-environment-for-flies"
+    },
+    {
+      "name": "Times of India",
+      "title": "Bengaluru scientists use virtual reality to know how insects find objects",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-scientists-use-virtual-reality-to-know-how-insects-find-objects/articleshow/75865605.cms"
+    },
+    {
+      "name": "Phys.org",
+      "title": "Insect virtual reality gives us a fly’s perspective of the world",
+      "url": "https://phys.org/news/2020-05-insect-virtual-reality-perspective-world.html"
+    },
+    {
+      "name": "COSMOS",
+      "title": "Fancy VR fact-finds fly flight",
+      "url": "https://cosmosmagazine.com/science/biology/fancy-vr-fact-finds-fly-flight/"
+    },
+    {
+      "name": "Der Tagesspiegel",
+      "title": "Wenn Fliegen fliegen und ihre Rechner rechnen",
+      "url": "https://www.tagesspiegel.de/wissen/moderne-verhaltensforschung-wenn-fliegen-fliegen-und-ihre-rechner-rechnen/25840716.html"
+    },
+    {
+      "name": "Haaretz",
+      "title": "Scientists just figured out why it’s so hard to swat a fruit fly",
+      "url": "https://www.haaretz.com/world-news/2020-05-21/ty-article/.premium/scientists-just-figured-out-why-its-so-hard-to-swat-a-fruit-fly/0000017f-ef01-ddba-a37f-ef6fe6590000"
+    },
+    {
+      "name": "China Science Communication",
+      "title": "Chinese media coverage",
+      "url": "http://www.kepuchina.cn/tech/biology/202005/t20200525_1599471.shtml"
+    },
+    {
+      "name": "N+1",
+      "title": "Flies VR coverage",
+      "url": "https://nplus1.ru/news/2020/05/19/flies-vr"
+    },
+    {
+      "name": "Citizen Matters",
+      "title": "How Bengaluru cyclists are helping the elderly during lockdown",
+      "url": "https://citizenmatters.in/bengaluru-relief-riders-cyclists-home-delivery-essentials-medicines-to-senior-citizens/"
+    }
+  ],
+  "phdFinding": {
+    "text": "Apple flies used perspective and motion parallax to distinguish virtual objects of different sizes and distances, and combined odour with directional airflow to follow a host plume.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7275712/"
+  },
+  "service": [
+    "Postdoctoral Representative to the Max Planck Society",
+    "Journal reviewer in behaviour, VR tools and IoT health technology"
+  ],
+  "selectedDois": [
+    "10.1111/2041-210X.14449",
+    "10.1511/2021.109.6.368",
+    "10.1093/chemse/bjaa081",
+    "10.1073/pnas.1912124117",
+    "10.1016/j.cois.2020.09.010"
+  ]
+}

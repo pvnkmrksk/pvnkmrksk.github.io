@@ -1,0 +1,56 @@
+{
+  "name": "Kutuhula",
+  "nameKn": "ಕುತೂಹುಳ",
+  "title": "Science videos in Kannada",
+  "intro": "I shoot the footage myself and make the videos in Kannada. Here are a few on different subjects.",
+  "url": "https://www.kutuhula.in/en",
+  "instagram": "https://www.instagram.com/kutuhula/",
+  "words": [
+    {
+      "kn": "ಚಿತ್ರಾಳತೆ",
+      "en": "Photogrammetry"
+    },
+    {
+      "kn": "ಅಲೆಬಾಗುವಿಕೆ",
+      "en": "Diffraction"
+    },
+    {
+      "kn": "ಜಾಲರಿ",
+      "en": "Diffraction grating"
+    }
+  ],
+  "dictionary": "https://rala.kutuhula.in",
+  "reach": "By November 2026, Kutuhula had reached 50,000+ followers and 11M+ views across platforms, with no production budget.",
+  "reels": [
+    {
+      "titleKn": "ಈ ವರ್ಷ ಸಂಕ್ರಾಂತಿ ೧೫ಕ್ಕೆ ಯಾಕೆ? ೧೪ಕ್ಕೆ ಅಲ್ಲವೇಕೆ?",
+      "glossEn": "Why is Sankranti on the 15th this year?",
+      "url": "https://www.youtube.com/shorts/C0nGSRDAigY",
+      "poster": "assets/images/kutuhula-sankranti-portrait.webp",
+      "raw": "assets/raw/kutuhula-sankranti-portrait.jpg",
+      "posterSource": "https://i.ytimg.com/vi/C0nGSRDAigY/frame0.jpg",
+      "alt": "Original vertical Kutuhula video frame with Kannada lettering about the date of Sankranti.",
+      "topic": "Astronomy and calendars"
+    },
+    {
+      "titleKn": "ಚುನಾವಣೆ ಜೇನು",
+      "glossEn": "Voting bees",
+      "url": "https://www.youtube.com/shorts/ibK9fiyAH3g",
+      "poster": "assets/images/kutuhula-voting-bees-portrait.webp",
+      "raw": "assets/raw/kutuhula-voting-bees-portrait.jpg",
+      "posterSource": "https://i.ytimg.com/vi/ibK9fiyAH3g/frame0.jpg",
+      "alt": "Original vertical Kutuhula video frame of a swarm of bees outside a building.",
+      "topic": "Bees and collective behaviour"
+    },
+    {
+      "titleKn": "ಬಂಡೆ ಚಿತ್ರ",
+      "glossEn": "A petroglyph, reconstructed in 3D",
+      "url": "https://www.youtube.com/shorts/D-KOZ3_DBC0",
+      "poster": "assets/images/kutuhula-petroglyph-portrait.webp",
+      "raw": "assets/raw/kutuhula-petroglyph-portrait.jpg",
+      "posterSource": "https://i.ytimg.com/vi/D-KOZ3_DBC0/frame0.jpg",
+      "alt": "Original vertical Kutuhula frame of a hand holding a 3D-printed rock surface while powder reveals its relief.",
+      "topic": "Archaeology, photogrammetry and fabrication"
+    }
+  ]
+}

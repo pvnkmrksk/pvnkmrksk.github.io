@@ -1,0 +1,25 @@
+{
+  "updated": "November 2026",
+  "items": [
+    {
+      "label": "Finding home",
+      "text": "I’m studying how weaver ants find home using the surroundings they see.",
+      "href": "#research"
+    },
+    {
+      "label": "Long journeys",
+      "text": "I’m asking how Bogong moths migrate using the night sky and their neighbors.",
+      "href": "#research"
+    },
+    {
+      "label": "A prototype",
+      "text": "I’m making a lightweight, open BLE tracking tag for insects. The board is still a prototype.",
+      "href": "#tools"
+    },
+    {
+      "label": "Teaching",
+      "text": "I’m preparing a locust practical and block-course lecture in Konstanz for November–December 2026.",
+      "href": "#teaching"
+    }
+  ]
+}

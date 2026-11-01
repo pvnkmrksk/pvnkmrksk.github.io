@@ -1,0 +1,142 @@
+{
+  "verified_date": "2026-11-01",
+  "profile": {
+    "name": "Pavan",
+    "role": "Postdoc, Department of Collective Behavior, Max Planck Institute of Animal Behavior",
+    "location": "Konstanz",
+    "email": "banni@kutuhula.in",
+    "url": "https://www.ab.mpg.de/person/116189"
+  },
+  "photos": [
+    {
+      "width": 1200,
+      "height": 900,
+      "alt": "A tethered apple fly inside a virtual reality arena, surrounded by projected trees, sky and grass, with glass capillaries delivering wind and odour.",
+      "credit": "Pavan Kumar Kaushik",
+      "source": "https://researchmatters.in/news/using-virtual-reality-understand-how-insects-fly",
+      "asset_url": "https://researchmatters.in/sites/researchmatters.in/files/tethered-apple-fly.jpg",
+      "note": "Original researcher-supplied image explicitly credited to Pavan Kumar Kaushik."
+    },
+    {
+      "width": 532,
+      "height": 458,
+      "alt": "Umwelt: A nocturnal animal gathering, event artwork",
+      "credit": "Max Planck Institute of Animal Behavior / Umwelt",
+      "source": "https://www.ab.mpg.de/events/35062/2724",
+      "note": "Institutional event illustration; no separate artist credit listed."
+    }
+  ],
+  "papers": [
+    {
+      "title": "Characterizing long-range search behavior in Diptera using complex 3D virtual environments",
+      "year": 2020,
+      "authors": "Pavan Kumar Kaushik, Marian Renz, Shannon B. Olsson",
+      "journal": "PNAS 117(22):12201–12207",
+      "url": "https://doi.org/10.1073/pnas.1912124117",
+      "finding": "Apple flies used perspective and motion parallax to distinguish object distance, and combined visual, wind and odour cues when navigating toward targets.",
+      "source": "https://news.ncbs.res.in/research/insect-virtual-reality-what-it%E2%80%99s-really-be-fly-wall"
+    }
+  ],
+  "matrex": {
+    "primary_talk_source": "https://li-lab.de/workshop/SinoGerman2026/",
+    "title": "Virtual Reality in the Wild",
+    "date": "2026-08-04",
+    "claims": [
+      "Open-source modular VR built from off-the-shelf components and 3D-printed modules",
+      "Delivers panoramic visual input to walking and flying animals",
+      "Works in laboratory and off-grid in field",
+      "Used with death’s-head hawkmoths, Mormon crickets, weaver ants"
+    ],
+    "fieldwork_story": "https://highplainsstewardship.com/mormon-cricket-virtual-reality-and-my-fieldwork-roadside-reality-show-with-an-audience-of-usually-no-one/"
+  },
+  "exhibits": [
+    {
+      "title": "Umwelt: A nocturnal animal gathering",
+      "date": "2023-07-28",
+      "venue": "Kula Kulturladen",
+      "city": "Konstanz",
+      "description": "An evening of technology, art, virtual reality, robotics and experimental music, featuring work by Pavan Kaushik and other scientists and artists.",
+      "url": "https://www.ab.mpg.de/events/35062/2724",
+      "supporters": [
+        "Akademie Schloss Solitude",
+        "Max Planck Institute of Animal Behavior",
+        "Kula Kulturladen Konstanz"
+      ],
+      "note": "Brief locates this in Stuttgart; institutional event page establishes Konstanz. Do not conflate with new Whose World Counts? proposal."
+    }
+  ],
+  "kutuhula": {
+    "title": "ಕುತೂಹುಳ · Kutuhula",
+    "url": "https://www.kutuhula.in/en",
+    "youtube": "https://youtube.com/@kutuhula",
+    "instagram": "https://instagram.com/kutuhula",
+    "reels": [
+      {
+        "title": "The Mathematics of Spring",
+        "youtube_id": "M38wy1wpSLo",
+        "url": "https://youtube.com/watch?v=M38wy1wpSLo",
+        "thumbnail": "assets/raw/kutuhula-spring.jpg",
+        "thumbnail_credit": "Kutuhula / YouTube",
+        "thumbnail_source": "https://i.ytimg.com/vi/M38wy1wpSLo/hqdefault.jpg"
+      },
+      {
+        "title": "The Crocus and Its Three-Week Window",
+        "youtube_id": "wYe51Ltbubw",
+        "url": "https://youtube.com/watch?v=wYe51Ltbubw",
+        "thumbnail": "assets/raw/kutuhula-crocus.jpg",
+        "thumbnail_credit": "Kutuhula / YouTube",
+        "thumbnail_source": "https://i.ytimg.com/vi/wYe51Ltbubw/hqdefault.jpg"
+      },
+      {
+        "title": "Why Snowdrops Look Down",
+        "youtube_id": "_GUeTQwduLI",
+        "url": "https://youtube.com/watch?v=_GUeTQwduLI",
+        "thumbnail": "assets/raw/kutuhula-snowdrops.jpg",
+        "thumbnail_credit": "Kutuhula / YouTube",
+        "thumbnail_source": "https://i.ytimg.com/vi/_GUeTQwduLI/hqdefault.jpg"
+      }
+    ]
+  },
+  "press": [
+    {
+      "outlet": "CNN",
+      "url": "https://edition.cnn.com/2020/05/18/world/insects-virtual-reality-study-scn/index.html"
+    },
+    {
+      "outlet": "Inverse",
+      "url": "https://www.inverse.com/innovation/vr-environment-for-flies"
+    },
+    {
+      "outlet": "Haaretz",
+      "url": "https://www.haaretz.com/science-and-health/.premium-scientists-just-figured-out-why-it-s-so-hard-to-swat-a-fruit-fly-1.8852437"
+    },
+    {
+      "outlet": "Der Tagesspiegel",
+      "url": "https://m.tagesspiegel.de/wissen/moderne-verhaltensforschung-wenn-fliegen-fliegen-und-ihre-rechner-rechnen/25840716.html?utm_referrer=https://pnas.altmetric.com/details/82270647/news"
+    },
+    {
+      "outlet": "COSMOS",
+      "url": "https://cosmosmagazine.com/biology/fancy-vr-fact-finds-fly-flight"
+    },
+    {
+      "outlet": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-scientists-use-virtual-reality-to-know-how-insects-find-objects/articleshow/75865605.cms"
+    },
+    {
+      "outlet": "Phys.org",
+      "url": "https://phys.org/news/2020-05-insect-virtual-reality-perspective-world.html"
+    },
+    {
+      "outlet": "Research Matters",
+      "url": "https://researchmatters.in/news/using-virtual-reality-understand-how-insects-fly"
+    },
+    {
+      "outlet": "NCBS News",
+      "url": "https://news.ncbs.res.in/research/insect-virtual-reality-what-it%E2%80%99s-really-be-fly-wall"
+    }
+  ],
+  "additional_primary_links": {
+    "NCBS_talk": "https://www.youtube.com/watch?v=-IQ0S2Jsg-Q",
+    "lab_press_roundup": "https://nicelab.science/2020/05/19/the-nice-group-learns-what-its-really-like-to-be-a-fly-on-the-wall/"
+  }
+}
