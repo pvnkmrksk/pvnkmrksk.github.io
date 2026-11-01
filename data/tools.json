@@ -1,0 +1,244 @@
+{
+  "verifiedAt": "2026-11-01",
+  "profile": "https://github.com/pvnkmrksk",
+  "tools": [
+    {
+      "name": "Rekkefly",
+      "blurb": "Real-time wing tracking for tethered insects, with desktop apps and Kinefly-compatible ZMQ output.",
+      "tags": [
+        "Research software"
+      ],
+      "repo": "https://github.com/pvnkmrksk/rekkefly",
+      "demo": "https://pvnkmrksk.github.io/rekkefly/",
+      "status": "Active",
+      "featured": true,
+      "source": "GitHub repository description, verified 2026-11-01.",
+      "media": {
+        "source": "https://raw.githubusercontent.com/pvnkmrksk/rekkefly/main/docs/images/main-window.png",
+        "alt": "A close tracking view of a tethered Bogong moth with coloured wing sectors and measurements.",
+        "label": "Wing tracking on a Bogong moth",
+        "href": "https://pvnkmrksk.github.io/rekkefly/",
+        "credit": "Pavan / Rekkefly",
+        "videoSource": "https://raw.githubusercontent.com/pvnkmrksk/rekkefly/main/docs/media/bogong-moth-tracking.mp4",
+        "src": "assets/images/projects/rekkefly-flush.webp",
+        "width": 704,
+        "height": 440,
+        "video": "assets/videos/rekkefly-tracking-flush.mp4",
+        "fullSrc": "assets/images/projects/rekkefly-full.webp"
+      }
+    },
+    {
+      "name": "HejjéTrac",
+      "blurb": "A Rust implementation of FicTrac spherical-motion tracking, with desktop apps and support for multiple rigs.",
+      "tags": [
+        "Research software"
+      ],
+      "repo": "https://github.com/pvnkmrksk/hejjetrak",
+      "demo": "https://pvnkmrksk.github.io/hejjetrak/",
+      "status": "Active",
+      "featured": true,
+      "source": "GitHub repository description, verified 2026-11-01.",
+      "media": {
+        "source": "https://raw.githubusercontent.com/pvnkmrksk/hejjetrak/main/docs/images/preview.png",
+        "alt": "A close view of a patterned treadmill ball with cyan tracking points and motion outlines.",
+        "label": "Tracking a supplied FicTrac sample",
+        "href": "https://pvnkmrksk.github.io/hejjetrak/",
+        "credit": "Pavan / HejjéTrac; video uses supplied FicTrac sample",
+        "videoSource": "https://raw.githubusercontent.com/pvnkmrksk/hejjetrak/main/docs/images/tracking-demo.mp4",
+        "src": "assets/images/projects/hejjetrac-flush.webp",
+        "width": 640,
+        "height": 400,
+        "video": "assets/videos/hejjetrac-tracking-flush.mp4",
+        "fullSrc": "assets/images/projects/hejjetrac-full.webp"
+      }
+    },
+    {
+      "name": "MATREX VR",
+      "blurb": "A modular virtual-reality system I’m developing for experiments with walking, flying and group-living insects.",
+      "tags": [
+        "Research hardware",
+        "Research software"
+      ],
+      "repo": "https://github.com/pvnkmrksk/matrexVR",
+      "demo": "https://pvnkmrksk.github.io/matrexVR/",
+      "status": "Active",
+      "featured": true,
+      "source": "https://github.com/pvnkmrksk/matrexVR/blob/main/README.md",
+      "media": {
+        "source": "https://github.com/pvnkmrksk/matrexVR",
+        "alt": "The MATREX desktop interface for choosing walking or flying experiments and a virtual environment.",
+        "label": "The MATREX experiment interface",
+        "href": "https://pvnkmrksk.github.io/matrexVR/manual/gallery.html#locust-swarm",
+        "credit": "MATREX VR / Pavan",
+        "src": "assets/images/projects/matrex-flush.webp",
+        "width": 1280,
+        "height": 800,
+        "fullSrc": "assets/images/projects/matrex-full.webp"
+      }
+    },
+    {
+      "name": "Rala",
+      "nameKn": "ರಲ",
+      "blurb": "An English-to-Kannada reverse dictionary using Alar by V. Krishna and the Government of Karnataka’s Padakanaja dictionaries.",
+      "tags": [
+        "Kannada"
+      ],
+      "repo": "https://github.com/pvnkmrksk/rala",
+      "demo": "https://rala.kutuhula.in/",
+      "status": "Live",
+      "featured": true,
+      "source": "https://github.com/pvnkmrksk/rala/blob/main/README.md",
+      "media": {
+        "source": "https://rala.kutuhula.in/",
+        "alt": "Rala showing the English query curiosity and matching Kannada words.",
+        "label": "Kannada words for curiosity",
+        "href": "https://pvnkmrksk.github.io/rala/",
+        "credit": "Pavan / Rala; dictionary sources Alar and Padakanaja",
+        "src": "assets/images/projects/rala-flush.webp",
+        "width": 880,
+        "height": 550,
+        "fullSrc": "assets/images/projects/rala-full.webp"
+      }
+    },
+    {
+      "name": "Chukké",
+      "nameKn": "ಚುಕ್ಕೆ",
+      "blurb": "A tool for making unique colour tags to mark animals, samples or objects, with printable SVG sheets.",
+      "tags": [
+        "Research software"
+      ],
+      "repo": "https://github.com/pvnkmrksk/Chukke",
+      "demo": "https://chukke.kutuhula.in/",
+      "status": "Released",
+      "featured": false,
+      "source": "https://github.com/pvnkmrksk/Chukke/blob/main/README.md",
+      "media": {
+        "source": "https://raw.githubusercontent.com/pvnkmrksk/Chukke/main/Chukk%C3%A9_tags_example.svg",
+        "alt": "A four-quadrant Chukké identification tag cycling through colour combinations.",
+        "label": "Colour-tag combinations",
+        "href": "https://chukke.kutuhula.in/",
+        "credit": "Chukké / Pavan",
+        "src": "assets/images/projects/chukke-flush.webp",
+        "width": 214,
+        "height": 214,
+        "video": "assets/videos/chukke-flush.mp4",
+        "videoSource": "https://raw.githubusercontent.com/pvnkmrksk/Chukke/main/anim.gif",
+        "videoLabel": "Play animation",
+        "fullSrc": "assets/images/projects/chukke-full.webp",
+        "ratio": "1/1"
+      }
+    },
+    {
+      "name": "Kadaru",
+      "nameKn": "ಕದರು",
+      "blurb": "An image-scrambling tool that rearranges blocks or columns while preserving local texture.",
+      "tags": [
+        "Research software",
+        "Play"
+      ],
+      "repo": "https://github.com/pvnkmrksk/Kadaru",
+      "demo": "https://pvnkmrksk.github.io/Kadaru/",
+      "status": "Released",
+      "featured": false,
+      "source": "https://github.com/pvnkmrksk/Kadaru/blob/main/README.md",
+      "media": {
+        "source": "https://raw.githubusercontent.com/pvnkmrksk/Kadaru/main/kadaru.png",
+        "alt": "An original image and its block-scrambled and column-scrambled outputs.",
+        "label": "Original, block and column scrambling",
+        "href": "https://pvnkmrksk.github.io/Kadaru/",
+        "credit": "Kadaru / Pavan",
+        "src": "assets/images/projects/kadaru-flush.webp",
+        "width": 800,
+        "height": 800,
+        "video": "assets/videos/kadaru-flush.mp4",
+        "videoSource": "https://github.com/pvnkmrksk/Kadaru#example",
+        "videoLabel": "Play animation",
+        "fullSrc": "assets/images/projects/kadaru-full.webp",
+        "ratio": "1/1"
+      }
+    },
+    {
+      "name": "6-axis force–torque sensor",
+      "blurb": "I adapted the ICRA 2020 sensor with a configurable, 3D-printed flexure and added camera and flexure calibration, ArUco tracking and ZMQ output.",
+      "tags": [
+        "Research hardware"
+      ],
+      "repo": "https://github.com/pvnkmrksk/fiducialforcesensor",
+      "status": "Released",
+      "featured": false,
+      "attribution": "Adapted from the ICRA 2020 fiducial force-sensor project by Rui Ouyang and Robert Howe.",
+      "source": "https://github.com/pvnkmrksk/fiducialforcesensor/blob/main/README.md",
+      "media": {
+        "src": "assets/images/projects/sensor-flush.webp",
+        "width": 360,
+        "height": 225,
+        "alt": "Four variants of my configurable force-sensor flexure in the CAD design.",
+        "label": "My flexure CAD design",
+        "source": "https://cad.onshape.com/api/thumbnails/d/3e860df39a3a0136b6650a0b/w/78ad68392459b8d68de64f2d/s/600x340?t=1753720252670",
+        "href": "https://cad.onshape.com/documents/3e860df39a3a0136b6650a0b/w/78ad68392459b8d68de64f2d/e/6d504a39dfdeb2eaddb9b7d0",
+        "credit": "Pavan · Flexure CAD",
+        "fullSrc": "assets/images/projects/sensor-full.webp"
+      },
+      "demo": "https://cad.onshape.com/documents/3e860df39a3a0136b6650a0b/w/78ad68392459b8d68de64f2d/e/6d504a39dfdeb2eaddb9b7d0",
+      "demoLabel": "CAD design"
+    },
+    {
+      "name": "Dwandwa",
+      "nameKn": "ದ್ವಂದ್ವ",
+      "blurb": "A tool for making a 3D sculpture that reads as one word from the front and another from the side.",
+      "tags": [
+        "Kannada",
+        "Play"
+      ],
+      "repo": "https://github.com/pvnkmrksk/dwandwa",
+      "demo": "https://dwandwa.kutuhula.in/",
+      "status": "Live",
+      "featured": false,
+      "source": "https://github.com/pvnkmrksk/dwandwa/blob/main/README.md",
+      "media": {
+        "source": "https://dwandwa.kutuhula.in/",
+        "alt": "A generated dual-word sculpture viewed from an oblique angle.",
+        "label": "A sculpture with two readings",
+        "href": "https://dwandwa.kutuhula.in/",
+        "credit": "Pavan / Dwandwa · live tool capture",
+        "src": "assets/images/projects/dwandwa-flush.webp",
+        "width": 152,
+        "height": 95,
+        "fullSrc": "assets/images/projects/dwandwa-full.webp"
+      }
+    },
+    {
+      "name": "ArUco marker generator",
+      "blurb": "A generator for ArUco marker files for laser cutting.",
+      "tags": [
+        "Research software",
+        "Research hardware"
+      ],
+      "repo": "https://github.com/pvnkmrksk/aruco-laser-cutter-generator",
+      "status": "Public repository",
+      "featured": false,
+      "source": "Supplied portfolio spec and verified repository existence.",
+      "media": {
+        "source": "https://raw.githubusercontent.com/pvnkmrksk/aruco-laser-cutter-generator/main/assets/previews/18_custom_grid_5x5_preview.png",
+        "alt": "A close-up of generated ArUco markers; the full sheet is available in the enlarged view.",
+        "label": "Generated marker patterns",
+        "href": "https://pvnkmrksk.github.io/aruco-laser-cutter-generator/",
+        "credit": "Pavan / ArUco Marker Generator",
+        "src": "assets/images/projects/aruco-flush.webp",
+        "width": 352,
+        "height": 220,
+        "fullSrc": "assets/images/projects/aruco-full.webp"
+      },
+      "demo": "https://pvnkmrksk.github.io/aruco-laser-cutter-generator/"
+    },
+    {
+      "name": "BLE insect tracking tag",
+      "blurb": "I’m working on a lightweight BLE tag for tracking insects. The board design is still a prototype.",
+      "tags": [
+        "Research hardware"
+      ],
+      "status": "Prototype",
+      "featured": false
+    }
+  ]
+}

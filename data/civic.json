@@ -1,0 +1,62 @@
+{
+  "title": "Civic projects in Bengaluru",
+  "intro": "I’ve worked on community maps, bus-network maps and tools that make it easier to find words in Kannada.",
+  "projects": [
+    {
+      "name": "Relief Riders",
+      "year": "2020",
+      "label": "Community mapping",
+      "text": "During the 2020 lockdown, Chintan Sheth and I helped map Relief Riders volunteers and areas where older residents might need help with groceries and medicine.",
+      "href": "https://citizenmatters.in/bengaluru-relief-riders-cyclists-home-delivery-essentials-medicines-to-senior-citizens/",
+      "link": "Read the story",
+      "media": {
+        "src": "assets/images/projects/relief-riders.webp",
+        "width": 800,
+        "height": 734,
+        "alt": "A 2020 map of Relief Riders volunteers across Bengaluru wards.",
+        "label": "Map of volunteers · Chintan Sheth and Pavan",
+        "credit": "Chintan Sheth and Pavan",
+        "source": "https://citizenmatters.in/wp-content/uploads/2020/04/relief-riders-map-covid-19-1.png",
+        "showCaption": true
+      }
+    },
+    {
+      "name": "Magga",
+      "label": "BMTC spider maps",
+      "text": "I made spider maps of Bengaluru’s bus routes. Magga builds on LOOM to filter bus data and draw geographic and schematic maps with Indic labels.",
+      "href": "https://github.com/pvnkmrksk/magga",
+      "link": "Code and example maps",
+      "attribution": "Built on LOOM by Hannah Bast, Patrick Brosi and Sabine Storandt.",
+      "media": {
+        "src": "assets/images/projects/magga-detail.webp",
+        "width": 600,
+        "height": 375,
+        "alt": "Labeled BMTC route junction at BEL Circle, with the route bundle continuing to Gokula.",
+        "label": "BMTC spider-map detail around BEL Circle and Gokula",
+        "credit": "Pavan, built on LOOM",
+        "source": "https://github.com/pvnkmrksk/magga",
+        "fullSrc": "assets/images/projects/magga-full.webp"
+      }
+    },
+    {
+      "name": "Rala",
+      "label": "A Kannada reverse dictionary",
+      "text": "I built Rala to find Kannada words from an English meaning. It brings together Alar by V. Krishna and the Government of Karnataka’s Padakanaja dictionaries.",
+      "href": "https://rala.kutuhula.in/",
+      "link": "Look up a word",
+      "toolLink": "#tool-rala",
+      "media": {
+        "source": "https://rala.kutuhula.in/",
+        "alt": "Rala showing the English query curiosity and matching Kannada words.",
+        "label": "Kannada words for curiosity",
+        "href": "https://pvnkmrksk.github.io/rala/",
+        "credit": "Pavan / Rala; dictionary sources Alar and Padakanaja",
+        "src": "assets/images/projects/rala-flush.webp",
+        "width": 880,
+        "height": 550,
+        "fullSrc": "assets/images/projects/rala-full.webp"
+      }
+    }
+  ],
+  "context": "I also made BMTC spider maps to examine Bengaluru’s bus network. The Magga tools and sample maps are in the open-tools section."
+}

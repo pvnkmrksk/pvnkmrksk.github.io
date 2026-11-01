@@ -1,0 +1,94 @@
+[
+  {
+    "year": "2016",
+    "name": "Open Day",
+    "place": "NCBS · Bengaluru",
+    "text": "I shared the insect VR experiment at NCBS Open Day. A projection let visitors follow the virtual landscape while we explored how insects use airflow and odour.",
+    "url": "https://nicelab.science/2016/11/23/ncbs-open-day/",
+    "media": {
+      "base": "assets/images/events/ncbs-open-day-2016",
+      "src": "assets/images/events/ncbs-open-day-2016-960.webp",
+      "fullSrc": "assets/images/events/ncbs-open-day-2016-full.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "Visitors gather around two monitors while a large projection shows a virtual sky and grassy landscape.",
+      "label": "At NCBS Open Day in 2016, the virtual landscape was projected so visitors could follow the experiment."
+    }
+  },
+  {
+    "year": "2018",
+    "name": "Moth Day",
+    "place": "NCBS · Bengaluru",
+    "text": "Visitors tried an odour-sampling station and explored how insects sense their surroundings.",
+    "url": "https://nicelab.science/2018/10/10/all-hail-the-mighty-moths/",
+    "media": {
+      "base": "assets/images/events/moth-day-2018",
+      "src": "assets/images/events/moth-day-2018-960.webp",
+      "fullSrc": "assets/images/events/moth-day-2018-full.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "A visitor leans toward clear tubes connected to small bottles at an outdoor odour station.",
+      "label": "At NCBS Moth Day in 2018, visitors could try an odour-sampling setup alongside the insect demonstrations."
+    }
+  },
+  {
+    "year": "2019",
+    "name": "Non Flowers at the V&A",
+    "place": "FOOD: Bigger than the Plate · London",
+    "text": "Our NICE Lab collaboration with Thomas Pausz and Srishti artists explored the flower cues pollinators use. The resulting Non Flowers models were shown in FOOD: Bigger than the Plate at the V&A in 2019.",
+    "url": "https://nicelab.science/2019/06/13/our-collaboration-with-artists-featured-at-the-victoria-and-albert-museum/",
+    "media": {
+      "base": "assets/images/events/nonflowers-2019",
+      "src": "assets/images/events/nonflowers-2019-960.webp",
+      "fullSrc": "assets/images/events/nonflowers-2019-full.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "An open exhibition catalogue shows Non Flower for a Hoverfly, with photographs of flower-like models and an insect in a virtual scene.",
+      "label": "The exhibition catalogue for FOOD: Bigger than the Plate, at the V&A in 2019. Non Flower for a Hoverfly is credited to Thomas Pausz and Shannon Olsson.",
+      "credit": "Photo: Pavan · CC BY-SA 4.0. Work pictured: Thomas Pausz and Shannon Olsson; NICE Lab and Srishti collaboration."
+    }
+  },
+  {
+    "year": "2023",
+    "name": "Umwelt: A nocturnal animal gathering",
+    "place": "KULA Kulturladen · Konstanz",
+    "text": "I took the insect VR setup to KULA for an evening of art, science, robotics and music, with other scientists and artists.",
+    "url": "https://www.ab.mpg.de/events/35062/2724",
+    "media": {
+      "base": "assets/images/events/umwelt-2023-rig",
+      "src": "assets/images/events/umwelt-2023-rig-960.webp",
+      "fullSrc": "assets/images/events/umwelt-2023-rig-full.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "An insect VR rig and tracking monitor overlook a purple-lit room with visitors below.",
+      "label": "I took the insect VR setup to KULA for Umwelt, an evening of art, science and music in Konstanz in 2023."
+    },
+    "gallery": [
+      {
+        "base": "assets/images/events/umwelt-2023-visitor",
+        "src": "assets/images/events/umwelt-2023-visitor-960.webp",
+        "fullSrc": "assets/images/events/umwelt-2023-visitor-full.webp",
+        "width": 960,
+        "height": 720,
+        "alt": "A visitor leans over the insect VR rig, with its ball-tracking display in the foreground and stage lights behind.",
+        "label": "A visitor takes a closer look at the setup during Umwelt."
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "name": "Long Night of Museums",
+    "place": "Munich · 18 October 2025",
+    "text": "Visitors could turn the ball and watch the virtual scene respond, seeing how a movement becomes part of the experiment.",
+    "url": "https://www.ab.mpg.de/events/42342/2736",
+    "media": {
+      "base": "assets/images/events/munich-2025",
+      "src": "assets/images/events/munich-2025-960.webp",
+      "fullSrc": "assets/images/events/munich-2025-full.webp",
+      "width": 960,
+      "height": 720,
+      "alt": "Visitors watch a laptop showing a virtual world beside an LED-panel rig; a panel behind it describes locust swarms.",
+      "label": "I took the rig to Munich’s Long Night of Museums in 2025. Visitors could turn the ball and watch the virtual scene respond."
+    }
+  }
+]

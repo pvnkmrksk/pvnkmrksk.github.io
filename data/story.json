@@ -1,0 +1,113 @@
+{
+  "intro": {
+    "src": "assets/images/ant-vr-960.webp",
+    "fullSrc": "assets/images/ant-vr-960.webp",
+    "width": 720,
+    "height": 1280,
+    "alt": "A tethered ant stands on a black-and-white ball inside screens showing a virtual woodland.",
+    "label": "The ant walks on a ball while I change the woodland around it."
+  },
+  "now": {
+    "name": "Bogong moth tracking",
+    "media": {
+      "source": "https://raw.githubusercontent.com/pvnkmrksk/rekkefly/main/docs/images/main-window.png",
+      "alt": "A close tracking view of a tethered Bogong moth with coloured wing sectors and measurements.",
+      "label": "Rekkefly follows a tethered Bogong moth’s wings as it flies.",
+      "href": "https://pvnkmrksk.github.io/rekkefly/",
+      "credit": "Pavan / Rekkefly",
+      "videoSource": "https://raw.githubusercontent.com/pvnkmrksk/rekkefly/main/docs/media/bogong-moth-tracking.mp4",
+      "src": "assets/images/projects/rekkefly-flush.webp",
+      "width": 704,
+      "height": 440,
+      "video": "assets/videos/rekkefly-tracking-flush.mp4",
+      "fullSrc": "assets/images/projects/rekkefly-full.webp"
+    },
+    "repo": "https://github.com/pvnkmrksk/rekkefly"
+  },
+  "research": {
+    "src": "assets/images/projects/worlds-swarm.webp",
+    "fullSrc": "assets/images/projects/worlds-swarm.webp",
+    "width": 1000,
+    "height": 750,
+    "alt": "A simulated locust swarm moving across a textured landscape in MATREX VR.",
+    "label": "A simulated swarm in MATREX VR."
+  },
+  "phd": {
+    "base": "assets/images/apple-fly-vr",
+    "src": "assets/images/apple-fly-vr-960.webp",
+    "fullSrc": "assets/images/apple-fly-vr-960.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Wind and odour tubes point toward a tethered fly inside screens showing grass, sky and an apple tree.",
+    "label": "The virtual arena from my PhD: a fly held in place while scenery, wind and odour could change around it."
+  },
+  "industry": {
+    "name": "Essensari prototype",
+    "src": "assets/images/essensari/device-loop.webp",
+    "fullSrc": "assets/images/essensari/wood-prototype-full.webp",
+    "video": "assets/videos/essensari-device-loop.mp4",
+    "width": 640,
+    "height": 352,
+    "ratio": "20/11",
+    "alt": "Wood-finish Essensari device with four front openings, with visible plumes rising above it.",
+    "label": "Essensari’s wood-finish prototype operating. The app paired the device with an odour-identification task.",
+    "credit": "Essensari / Timestamp India · Company website and brochure",
+    "href": "https://pvnkmrksk.wixsite.com/essensari",
+    "source": "https://pvnkmrksk.wixsite.com/essensari",
+    "gallery": [
+      {
+        "src": "assets/images/essensari/wood-prototype.webp",
+        "fullSrc": "assets/images/essensari/wood-prototype-full.webp",
+        "width": 1600,
+        "height": 1000,
+        "alt": "Wood-finish Essensari prototype with four front openings and a QR code on the side.",
+        "label": "The wood-finish Essensari prototype.",
+        "credit": "Essensari / Timestamp India · Company website"
+      },
+      {
+        "src": "assets/images/essensari/acrylic-prototype.webp",
+        "fullSrc": "assets/images/essensari/acrylic-prototype-full.webp",
+        "width": 1600,
+        "height": 1000,
+        "alt": "Essensari prototype in a translucent acrylic case, with four openings on the front.",
+        "label": "An acrylic-case version of the Essensari prototype.",
+        "credit": "Essensari / Timestamp India · Company website"
+      },
+      {
+        "src": "assets/images/essensari/app-screens.webp",
+        "fullSrc": "assets/images/essensari/app-screens.webp",
+        "width": 900,
+        "height": 900,
+        "alt": "Two Android app screens show device selection and illustrated odour choices including coffee, lemon, jasmine and mint.",
+        "label": "Device selection and odour-choice screens from the Essensari Android app.",
+        "credit": "Essensari / Timestamp India · Company brochure"
+      }
+    ]
+  },
+  "teaching": {
+    "base": "assets/images/events/ncbs-open-day-2016",
+    "src": "assets/images/events/ncbs-open-day-2016-960.webp",
+    "fullSrc": "assets/images/events/ncbs-open-day-2016-full.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Visitors gather around two monitors while a large projection shows a virtual sky and grassy landscape.",
+    "label": "The insect VR setup at NCBS Open Day, 2016, with its virtual landscape projected for visitors to follow."
+  },
+  "press": {
+    "src": "assets/images/hero-landscape-hq.webp",
+    "fullSrc": "assets/images/hero-landscape-hq.webp",
+    "width": 1920,
+    "height": 1080,
+    "alt": "A tethered ant stands on a black-and-white ball inside screens showing a virtual woodland.",
+    "label": "An ant on a tracked ball, surrounded by a virtual woodland."
+  },
+  "contact": {
+    "base": "assets/images/events/umwelt-2023-rig",
+    "src": "assets/images/events/umwelt-2023-rig-960.webp",
+    "fullSrc": "assets/images/events/umwelt-2023-rig-full.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "An insect VR rig and tracking monitor overlook a purple-lit room with visitors below.",
+    "label": "I took the insect VR setup to KULA for Umwelt, an evening of art, science and music in Konstanz in 2023."
+  }
+}
