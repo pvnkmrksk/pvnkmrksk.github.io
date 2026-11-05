@@ -1,5 +1,11 @@
 import { readFile, stat, readdir } from 'node:fs/promises';
 import assert from 'node:assert/strict';
+import { execFileSync } from 'node:child_process';
+import { basename } from 'node:path';
+// Check the source index too, so a private document cannot enter the public repo.
+const sourceFiles=execFileSync('git',['ls-files','--cached','--others','--exclude-standard','-z'],{encoding:'utf8'}).split('\0').filter(Boolean);
+const cvName=/(?:^|[ _.-])(?:cv|curriculum[ _-]*vitae|r[eé]sum[eé])(?:$|[ _.-])/i;
+for(const file of sourceFiles)assert.ok(!cvName.test(basename(file)),`CV/résumé file must stay out of the repository: ${file}`);
 const html=await readFile('dist/index.html','utf8');
 const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
 assert.equal(new Set(ids).size, ids.length, 'Duplicate HTML IDs');
@@ -36,5 +42,5 @@ const fs = await import('node:zlib');
 const gzip=fs.gzipSync(Buffer.concat([Buffer.from(html),Buffer.from(css),await readFile('dist/assets/site.js')]));
 assert.ok(gzip.length < 100000,'Initial transfer budget exceeded');
 const hero=await stat('dist/assets/images/hero-landscape-hq.avif'); assert.ok(hero.size<=163840,'Hero image budget exceeded');
-let total=0;async function walk(path){for(const entry of await readdir(path,{withFileTypes:true})){const file=path+'/'+entry.name;if(entry.isDirectory())await walk(file);else total+=(await stat(file)).size}}await walk('dist');
+let total=0;async function walk(path){for(const entry of await readdir(path,{withFileTypes:true})){const file=path+'/'+entry.name;if(entry.isDirectory())await walk(file);else {assert.ok(!/\.pdf$/i.test(entry.name),`No PDF in the public output: ${file}`);total+=(await stat(file)).size}}}await walk('dist');
 console.log(JSON.stringify({sections:14,anchors:ids.length,clientJavaScriptBytes:js.size,initialGzipBytes:gzip.length,heroAvifBytes:hero.size,totalStaticBytes:total,checks:'passed'},null,2));

@@ -5,3 +5,12 @@ dist/
 *.tar.gz
 assets/raw/
 qa/
+
+# Private CV/résumé documents are not source assets.
+[Cc][Vv].*
+[Cc][Vv][ _-]*
+*[ _-][Cc][Vv].*
+[Rr]esume.*
+[Rr]ésumé.*
+[Cc]urriculum[Vv]itae.*
+[Cc]urriculum[ _-]*[Vv]itae.*

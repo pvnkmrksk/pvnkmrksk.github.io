@@ -49,6 +49,6 @@ Pavan’s photos and videos use CC BY-SA 4.0. The Essensari material comes from 
 
 There is no public CV PDF or formal headshot. The explicitly approved MATREX field photograph and supplied public-event photographs are included. Keep the omitted exhibit proposal, unannounced future roles, referee details and unrelated private notes out of public output. Adding files to a drop folder is a publishing choice: only put images intended for the site there.
 
-The checker covers local assets, responsive image candidates, anchors, basic markup, privacy exclusions and transfer budgets. Review new captions, crops, credits and image-viewer behaviour in the local preview as well.
+The checker covers local assets, responsive image candidates, anchors, basic markup and transfer budgets. It also rejects CV/résumé filenames in tracked source and unignored additions, and checks recursively for PDFs in the public output. Review new captions, crops, credits and image-viewer behaviour in the local preview as well.
 
 `data/site.json` sets the canonical address; `PORTFOLIO_SITE_URL` can override it for another static host. GitHub Pages deployment is configured in `.github/workflows/pages.yml`. In repository Settings → Pages, use **GitHub Actions** as the source. The workflow builds and checks pushes to `master`, then publishes the static artifact.

@@ -34,8 +34,10 @@ export const mediaSlots = {
     href: 'https://pvnkmrksk.wixsite.com/essensari',
   },
   teaching: {
-    caption: 'The insect VR setup at NCBS Open Day, 2016, with its virtual landscape projected for visitors to follow.',
-    alt: 'Visitors gather around two monitors while a large projection shows a virtual sky and grassy landscape.',
+    "caption": "Inside a simulated marching herd. A recorded example from Classroom Agents.",
+    "alt": "A first-person view among orange, low-poly foxes moving through a grassy field.",
+    "credit": "Pavan / Classroom Agents",
+    "href": "https://pvnkmrksk.github.io/classroom-agents/"
   },
   press: {
     caption: 'An ant on a tracked ball, surrounded by a virtual woodland.',
@@ -137,5 +139,17 @@ export const mediaSlots = {
     alt: 'A close-up of generated ArUco markers; the full sheet is available in the enlarged view.',
     credit: 'Pavan / ArUco Marker Generator',
     href: 'https://pvnkmrksk.github.io/aruco-laser-cutter-generator/',
+  },
+  "civic-yeshtothu": {
+    "caption": "Comparing the wait, the ride and the time of day for a journey across Bengaluru.",
+    "alt": "Yeshtothu shows a Hebbala Bridge to Tin Factory journey, with waiting and riding time, a daily variation chart and the route on a Bengaluru map.",
+    "credit": "Pavan / Yeshtothu · Transit data: BengaWalk and Vonter · Map: © CARTO, © OpenStreetMap contributors",
+    "href": "https://pvnkmrksk.github.io/yeshtothu/"
+  },
+  "tool-classroom-agents": {
+    "caption": "Inside a simulated marching herd. A recorded example from Classroom Agents.",
+    "alt": "A first-person view among orange, low-poly foxes moving through a grassy field.",
+    "credit": "Pavan / Classroom Agents",
+    "href": "https://pvnkmrksk.github.io/classroom-agents/"
   },
 };

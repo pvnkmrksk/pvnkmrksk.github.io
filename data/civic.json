@@ -1,6 +1,6 @@
 {
   "title": "Civic projects in Bengaluru",
-  "intro": "I’ve worked on community maps, bus-network maps and tools that make it easier to find words in Kannada.",
+  "intro": "I make maps and small tools to help explore everyday questions: getting across Bengaluru, finding help, or finding a word.",
   "projects": [
     {
       "name": "Relief Riders",
@@ -36,6 +36,28 @@
         "credit": "Pavan, built on LOOM",
         "source": "https://github.com/pvnkmrksk/magga",
         "fullSrc": "assets/images/projects/magga-full.webp"
+      }
+    },
+    {
+      "id": "project-yeshtothu",
+      "name": "Yeshtothu",
+      "nameKn": "ಎಷ್ಟೊತ್ತು?",
+      "label": "How long will the journey take?",
+      "text": "I built Yeshtothu to explore journey times in Bengaluru, including the wait. It uses observed BMTC bus journeys and published Metro timetables, so you can compare departure times and see how much a trip varies from day to day. Connections are modelled rather than observed end to end.",
+      "href": "https://pvnkmrksk.github.io/yeshtothu/",
+      "link": "Explore a journey",
+      "attribution": "Transit data: BengaWalk and Vonter. Map: © CARTO, © OpenStreetMap contributors.",
+      "media": {
+        "base": "assets/images/projects/yeshtothu-flush",
+        "src": "assets/images/projects/yeshtothu-flush.webp",
+        "fullSrc": "assets/images/projects/yeshtothu-full.webp",
+        "width": 1152,
+        "height": 720,
+        "alt": "Yeshtothu shows a Hebbala Bridge to Tin Factory journey, with waiting and riding time, a daily variation chart and the route on a Bengaluru map.",
+        "label": "Comparing the wait, the ride and the time of day for a journey across Bengaluru.",
+        "source": "https://pvnkmrksk.github.io/yeshtothu/",
+        "href": "https://pvnkmrksk.github.io/yeshtothu/",
+        "credit": "Pavan / Yeshtothu · Transit data: BengaWalk and Vonter · Map: © CARTO, © OpenStreetMap contributors"
       }
     },
     {

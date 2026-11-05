@@ -49,5 +49,7 @@
   "documentTitle": "Pavan — I make insects play video games",
   "metaDescription": "I’m Pavan. I study how insects navigate the real world with tiny brains, build research tools, make science videos in Kannada, and work on exhibits and civic projects.",
   "ogTitle": "Pavan — Insects, tools and other work",
-  "ogDescription": "Research, tools, exhibits, civic projects and science in Kannada."
+  "ogDescription": "Research, tools, exhibits, civic projects and science in Kannada.",
+  "classroomTitle": "Classroom Agents",
+  "classroomText": "Students move through a shared field as foxes. I can change who sees whom and what cues they receive, then we compare how the group aligns, splits or finds a hidden patch."
 }
