@@ -477,6 +477,8 @@ ul,ol{margin:0;padding:0;list-style:none}
 .classroom-note>p{font-size:17px;line-height:1.7;color:var(--muted);margin-top:15px}
 .classroom-note .inline-links{margin-top:15px}
 .classroom-media .project-media{width:100%;height:auto;aspect-ratio:8/5;max-height:none}
+.research-loop .project-media{width:100%;height:auto;aspect-ratio:16/9;max-height:none}
+.research-loop .project-media video{object-fit:contain}
 .classroom-media .gallery-previews .media-enlarge{width:45%;aspect-ratio:16/9}
 @media(max-width:600px){
  #teaching .story-media{position:sticky;top:calc(var(--header-height) + 8px);z-index:4;background:var(--paper);padding-bottom:9px}

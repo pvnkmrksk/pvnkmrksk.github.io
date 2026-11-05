@@ -41,6 +41,15 @@ The build uses Sharp to generate 480 px, 960 px and full-view images up to 1600 
 
 The hero is separate: edit `data/hero.json` and supply already optimized, silent MP4 files. The current ant clip uses source seconds 10–26, with 1920 × 1080 landscape and 720 × 1280 portrait versions. It uses the full source width without a second CSS zoom. Video transcoding is not part of the build.
 
+Research loops are set in `data/story.json`; their captions and alt text are editable in the `research` and `phd` entries of `content/media.mjs`. Keep the existing `gallery` entries to offer the setup photographs as extra views.
+
+| Placement | Source clip | Snippet | Published file |
+| --- | --- | --- | --- |
+| Research / moving together | IMG_0209.MOV | 8–20 seconds | `assets/videos/locust-vr-loop.mp4` |
+| PhD / MultiMoVR | Supplementary Video 1.mp4 | 36–50 seconds | `assets/videos/multimodal-vr-loop.mp4` |
+
+These clips retain the complete 16:9 frame at 1280 × 720, with silent H.264 playback and optimized posters. The locust recording is converted from HDR to standard web colour. The MultiMoVR footage shows the setup described in the [2020 PNAS paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7275712/). The source videos remain outside the repository.
+
 Videos load lazily and pause offscreen, inside closed disclosures, behind the image viewer and in hidden tabs. Each clip has its own control. Reduced-motion and data-saving preferences begin with still images. Keep these behaviours when changing media.
 
 ## Credits and public content

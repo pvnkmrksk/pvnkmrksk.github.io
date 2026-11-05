@@ -13,14 +13,15 @@ export const mediaSlots = {
     alt: 'A tethered ant stands on a black-and-white ball inside screens showing a virtual woodland.',
   },
   research: {
-    caption: 'A simulated swarm in MATREX VR.',
-    alt: 'A simulated locust swarm moving across a textured landscape in MATREX VR.',
-    credit: 'MATREX VR; source project assets retain their own terms.',
-    href: 'https://pvnkmrksk.github.io/matrexVR/manual/gallery.html#locust-swarm',
+    caption: 'A locust walks on a tracked ball while virtual neighbors move around it. I use scenes like this to study how insects move together.',
+    alt: 'A tethered locust walks on a patterned ball inside LED panels showing a moving group of virtual locusts.',
+    credit: 'Pavan · CC BY-SA 4.0',
+    href: 'https://ssrn.com/abstract=7398343',
   },
   phd: {
-    caption: 'The virtual arena from my PhD: a fly held in place while scenery, wind and odour could change around it.',
-    alt: 'Wind and odour tubes point toward a tethered fly inside screens showing grass, sky and an apple tree.',
+    caption: 'In MultiMoVR, I combined virtual scenery, wind and odour to ask how flies find a target. Here, the landscape moves around a tethered fly.',
+    alt: 'A tethered fly beats its wings between airflow tubes as an apple-tree landscape moves across the surrounding screens.',
+    href: 'https://doi.org/10.1073/pnas.1912124117',
   },
   matrex: {
     caption: 'Taking notes beside MATREX, with the experiment running under a field canopy.',

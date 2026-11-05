@@ -25,21 +25,54 @@
     "repo": "https://github.com/pvnkmrksk/rekkefly"
   },
   "research": {
-    "src": "assets/images/projects/worlds-swarm.webp",
-    "fullSrc": "assets/images/projects/worlds-swarm.webp",
-    "width": 1000,
-    "height": 750,
-    "alt": "A simulated locust swarm moving across a textured landscape in MATREX VR.",
-    "label": "A simulated swarm in MATREX VR."
+    "base": "assets/images/projects/locust-vr-loop",
+    "src": "assets/images/projects/locust-vr-loop.webp",
+    "fullSrc": "assets/images/projects/locust-vr-loop-full.webp",
+    "video": "assets/videos/locust-vr-loop.mp4",
+    "width": 1280,
+    "height": 720,
+    "ratio": "16/9",
+    "alt": "A tethered locust walks on a patterned ball inside LED panels showing a moving group of virtual locusts.",
+    "label": "A locust walks on a tracked ball while virtual neighbors move around it. I use scenes like this to study how insects move together.",
+    "href": "https://ssrn.com/abstract=7398343",
+    "credit": "Pavan · CC BY-SA 4.0",
+    "gallery": [
+      {
+        "src": "assets/images/projects/worlds-swarm.webp",
+        "fullSrc": "assets/images/projects/worlds-swarm.webp",
+        "width": 1000,
+        "height": 750,
+        "alt": "A simulated locust swarm moving across a textured landscape in MATREX VR.",
+        "label": "A simulated swarm in MATREX VR.",
+        "credit": "MATREX VR; source project assets retain their own terms.",
+        "href": "https://pvnkmrksk.github.io/matrexVR/manual/gallery.html#locust-swarm"
+      }
+    ]
   },
   "phd": {
-    "base": "assets/images/apple-fly-vr",
-    "src": "assets/images/apple-fly-vr-960.webp",
-    "fullSrc": "assets/images/apple-fly-vr-960.webp",
-    "width": 960,
+    "base": "assets/images/projects/multimodal-vr-loop",
+    "src": "assets/images/projects/multimodal-vr-loop.webp",
+    "fullSrc": "assets/images/projects/multimodal-vr-loop-full.webp",
+    "video": "assets/videos/multimodal-vr-loop.mp4",
+    "width": 1280,
     "height": 720,
-    "alt": "Wind and odour tubes point toward a tethered fly inside screens showing grass, sky and an apple tree.",
-    "label": "The virtual arena from my PhD: a fly held in place while scenery, wind and odour could change around it."
+    "ratio": "16/9",
+    "alt": "A tethered fly beats its wings between airflow tubes as an apple-tree landscape moves across the surrounding screens.",
+    "label": "In MultiMoVR, I combined virtual scenery, wind and odour to ask how flies find a target. Here, the landscape moves around a tethered fly.",
+    "href": "https://doi.org/10.1073/pnas.1912124117",
+    "credit": "Pavan · CC BY-SA 4.0",
+    "gallery": [
+      {
+        "base": "assets/images/apple-fly-vr",
+        "src": "assets/images/apple-fly-vr-960.webp",
+        "fullSrc": "assets/images/apple-fly-vr-960.webp",
+        "width": 960,
+        "height": 720,
+        "alt": "Wind and odour tubes point toward a tethered fly inside screens showing grass, sky and an apple tree.",
+        "label": "The virtual arena from my PhD: a fly held in place while scenery, wind and odour could change around it.",
+        "href": "https://doi.org/10.1073/pnas.1912124117"
+      }
+    ]
   },
   "industry": {
     "name": "Essensari prototype",
@@ -127,5 +160,15 @@
     "height": 720,
     "alt": "An insect VR rig and tracking monitor overlook a purple-lit room with visitors below.",
     "label": "I took the insect VR setup to KULA for Umwelt, an evening of art, science and music in Konstanz in 2023."
+  },
+  "record": {
+    "src": "assets/images/projects/worlds-swarm.webp",
+    "fullSrc": "assets/images/projects/worlds-swarm.webp",
+    "width": 1000,
+    "height": 750,
+    "alt": "A simulated locust swarm moving across a textured landscape in MATREX VR.",
+    "label": "A simulated swarm in MATREX VR.",
+    "credit": "MATREX VR; source project assets retain their own terms.",
+    "href": "https://pvnkmrksk.github.io/matrexVR/manual/gallery.html#locust-swarm"
   }
 }
